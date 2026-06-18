@@ -1,4 +1,5 @@
-- Steak
+- Soja
+- Tofu
 - Salade
 - Tomate
 - Cornichon
